@@ -22,7 +22,7 @@ const App = (_) => {
     <div className="App">
       <h1>FUNDAMENTOS REACTJS</h1>
       <div className="Cards">
-        
+    {/*Adicionando um comentário no GitHub para fazer o pull*/}
         {/* 13 */}
         <Card titulo="#12 - Mega" color="#ffa700">
           <Mega qtde={6}/>        
